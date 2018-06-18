@@ -13,7 +13,6 @@ puts "What is the host's name?"
 host_name = gets.chomp.capitalize
 
 puts "Dear #{guest_name},
-  You are cordially invited to #{party_name} on #{date} at #{time}. Please RSVP soon.
-
-  Sincerely,
-  #{host_name}
+You are cordially invited to #{party_name} on #{date} at #{time}. Please RSVP soon.
+Sincerely,
+#{host_name}
