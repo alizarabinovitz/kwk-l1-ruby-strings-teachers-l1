@@ -17,3 +17,7 @@ puts "Dear #{guest_name},
 
   Sincerely,
   #{host_name}
+
+proper_sentence = "i really like programming.".capitalize # Put a . after the string to capitalize it properly.
+
+puts proper_sentence
